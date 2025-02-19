@@ -1,7 +1,11 @@
 # HijackingBrowser
 利用 UIAutomation 劫持当前浏览器地址栏并跳转至指定域名。
 
+![演示1](https://github.com/RainbowNetworkTechnology/HijackingBrowser/blob/main/images/5388e2cad03e46a1652d1b69d1a3ec60.png)
 
+![演示2](https://github.com/RainbowNetworkTechnology/HijackingBrowser/blob/main/images/1e2c7db30a11c5ef9d262cef54f7fa07.png)
+
+***
 
 ![Static Badge](https://img.shields.io/badge/HomePage-%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-green?logo=R&link=https://www.chwm.vip/?hb_gh) [www.chwm.vip](https://www.chwm.vip/?hb_gh)
 
